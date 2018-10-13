@@ -20,6 +20,30 @@
                       </LayoutPositions>
                     </value>
                   </entry>
+                  <entry key="deleteNoteFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-338" />
+                            <option name="y" value="-108" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="editNoteFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-334" />
+                            <option name="y" value="-423" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
                   <entry key="noteDetailFragment">
                     <value>
                       <LayoutPositions>
@@ -28,6 +52,20 @@
                             <option name="x" value="-628" />
                             <option name="y" value="-107" />
                           </Point>
+                        </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="action_noteDetailFragment_to_deleteNoteFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_noteDetailFragment_to_editNoteFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
                         </option>
                       </LayoutPositions>
                     </value>
@@ -43,12 +81,12 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_noteListFragment_to_addNoteFragment">
+                            <entry key="action_notes_to_addNote">
                               <value>
                                 <LayoutPositions />
                               </value>
                             </entry>
-                            <entry key="action_noteListFragment_to_noteDetailFragment">
+                            <entry key="action_notes_to_noteDetail">
                               <value>
                                 <LayoutPositions />
                               </value>
